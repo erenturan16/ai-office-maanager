@@ -1,4 +1,4 @@
-AI Office Manager - Kullanım Senaryosu
+  AI Office Manage
 1. Uygulamanın Amacı ve Genel Tanımı
 AI Office Manager, ofis içi düzeni sağlamak, görev dağılımını optimize etmek ve personel takibini otomatikleştirmek amacıyla geliştirilmiş yapay zekâ destekli bir web uygulamasıdır. Sistem; çalışanların giriş-çıkış saatlerini yüz tanıma ile kayıt altına alır, ofiste kimlerin olduğunu anlık olarak gösterir ve temizlik-yemek görevlerini adil bir şekilde dağıtır.
 
