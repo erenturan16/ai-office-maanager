@@ -1,19 +1,19 @@
   AI Office Manager
 1. Uygulamanın Amacı ve Genel Tanımı
-AI Office Manager, ofis içi düzeni sağlamak, görev dağılımını optimize etmek ve personel takibini otomatikleştirmek amacıyla geliştirilmiş yapay zekâ destekli bir web uygulamasıdır. Sistem; çalışanların giriş-çıkış saatlerini yüz tanıma ile kayıt altına alır, ofiste kimlerin olduğunu anlık olarak gösterir ve temizlik-yemek görevlerini adil bir şekilde dağıtır.
+AI Office Manager, ofis içi düzeni sağlamak, görev dağılımını optimize etmek ve personel takibini otomatikleştirmek amacıyla geliştirilmiş yapay zekâ destekli bir web uygulamasıdır. Sistem; çalışanların giriş-çıkış saatlerini yüz tanıma ile kayıt altına alır, ofiste kimlerin olduğunu anlık olarak gösterir herhangi bir görevleri adil bir şekilde dağıtır.
 
 2. Rol Tabanlı Yapı: Admin ve Member
-Admin:
 
+Admin:
 Tüm çalışanların giriş-çıkış bilgilerini ve görev geçmişini görebilir.
 Görev dağılımlarını manuel olarak düzenleyebilir veya sistemin otomatik dağıtımını kullanabilir.
 Diğer çalışanlara yetki vererek onların da yönetim işlemlerini yapmasına olanak tanır.
 Şirket çalışan listesine erişebilir ve yeni çalışan ekleyebilir.
-Member:
 
+Member:
 Sadece kendi görevlerini ve giriş-çıkış bilgilerini görüntüleyebilir.
 O gün ofiste kimlerin olduğunu görebilir.
-Temizlik ve yemek görevleri kendisine atandığında, sistemden bildirim alır.
+Herhangi bir görev kendisine atandığında, sistemden bildirim alır.
 Yalnızca kendine özel kullanıcı paneline erişebilir.
 3. Giriş - Çıkış Takibi (Yüz Tanıma ile)
 Sabah ofise gelen bir çalışan, giriş noktasındaki güvenlik kamerası ya da görüntü aktaran cihaz tarafından otomatik olarak tanınır.
